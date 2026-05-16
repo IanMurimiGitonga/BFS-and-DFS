@@ -1,0 +1,4 @@
+Write a python program to perform:
+  Breath First Search 
+  Depth First search
+The programs must out the search path from initial node to the goal state. Use a well-labelled annotation. 
